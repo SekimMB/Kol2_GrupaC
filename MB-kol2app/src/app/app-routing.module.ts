@@ -5,7 +5,7 @@ import {ShopDetailsMBComponent} from "./components/shop-details-mb/shop-details-
 
 const routes: Routes = [
   {
-    path: 'shop',
+    path: '',
     component: ShopMBComponent,
   },
   {
