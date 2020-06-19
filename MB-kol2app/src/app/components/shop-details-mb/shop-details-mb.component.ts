@@ -27,5 +27,4 @@ export class ShopDetailsMBComponent implements OnInit {
       this.title = res['title'];
     });
   }
-
 }
